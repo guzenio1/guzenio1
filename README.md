@@ -10,7 +10,9 @@ Aqui estão algumas ideias para você começar:
 - 👯 Estou procurando colaborar em ajudar em empresas de programação
 - 🤔 Estou procurando ajuda com empregos
 - 💬 Pergunte-me sobre programação
-- 📫 Como chegar até mim: gmail
+- 📫 Como chegar até mim: gmail 
 - 😄 Pronomes: ELE/DELE
 - ⚡ Curiosidade: como virar programador bom
--->
+- 📲 gmail: GUSTAVO HENRIQUE CORDEIRO DE LIMA
+- 🖤 cor favorita: preto
+- 💭 sonhos: se tornar um otimo programador 
